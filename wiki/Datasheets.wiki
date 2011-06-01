@@ -16,6 +16,7 @@ Below are categorized links to useful component datasheets related to the OpenDS
 
 =DAC (Digital to Analog Converters)=
  * *Linear Technology [http://cds.linear.com/docs/Datasheet/2602fa.pdf LTC2602/LTC2612/LTC2622]*: Dual 16-/14-/12-Bit Rail-to-Rail DACs in 8-Lead MSOP
+ * *Maxim [http://datasheets.maxim-ic.com/en/ds/MAX5590-MAX5595.pdf MAX5590]*: Buffered, Fast-Settling, Octal, 12/10/8-Bit, Voltage-Output DAC
 
 =FPGA (Field Programmable Gate Arrays)=
  * *Altera [http://www.altera.com/literature/ds/acex.pdf ACEX 1K]*
