@@ -1,0 +1,8 @@
+#summary Links to similar projects on the Net.
+
+ * *[http://www.knjn.com/Flashy.html Flashy Boards]*: a low-cost commercial product
+ * *[http://www.gabotronics.com/development-boards/xmega-xprotolab.htm Xprotolab]*: the smallest DSO on Earth!
+ * [http://www.soudez.be/joomla/content/view/12/27/lang,en/ Olivier's old project]
+ * *[http://www.picotech.com/oscilloscope-specifications.html Pico Oscilloscope Range]*: commercial products
+ * *[http://www.seeedstudio.com/depot/preorder-dso-quad-4-channel-digital-storage-oscilloscope-p-736.html?cPath=174 DSO Quad]*: unfortunately, it [http://www.seeedstudio.com/forum/viewtopic.php?f=22&t=1944 didn't met the expectation]
+ * A [http://sourceforge.net/apps/trac/welecw2000a/ firmware development/improvement] for the *DSO "Welec 2000a- series"*
