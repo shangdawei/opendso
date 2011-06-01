@@ -1,0 +1,46 @@
+#summary Links to useful datasheets.
+#labels Documents
+
+Below are categorized links to useful component datasheets related to the OpenDSO project:
+
+=ADC (Analog to Digital Converters)=
+ * Analog Devices [http://www.analog.com/static/imported-files/Data_Sheets/AD9288.pdf AD9288]
+ * Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD9283.pdf AD9283]
+ * Maxim [http://datasheets.maxim-ic.com/en/ds/MAX1180.pdf MAX1180]
+ * Maxim [http://datasheets.maxim-ic.com/en/ds/MAX19506.pdf MAX19506]
+ * National Semiconductor [http://www.national.com/ds/AD/ADC08100.pdf ADC08100]/[http://www.national.com/ds/AD/ADC08200.pdf ADC08200]
+ * Texas Instruments [http://focus.ti.com/lit/ds/symlink/ads831.pdf ADS831]
+
+=Clock oscillators=
+ * ECS [http://www.ecsxtal.com/store/pdf/ecs-3951m-bn-3953m-bn.pdf 3951M]
+
+=DAC (Digital to Analog Converters)=
+ * Linear Technology [http://cds.linear.com/docs/Datasheet/2602fa.pdf LTC2602/LTC2612/LTC2622]
+
+=FPGA (Field Programmable Gate Arrays)=
+ * Altera [http://www.altera.com/literature/ds/acex.pdf ACEX 1K]
+ * Altera [http://www.altera.com/literature/hb/cyc2/cyc2_cii5v1_01.pdf Cyclone II]/[http://www.altera.com/literature/hb/cyc3/cyc3_ciii52001.pdf Cyclone III]/[http://www.altera.com/literature/hb/cyclone-iv/cyiv-51001.pdf Cyclone IV]
+ * SiliconBlue [http://www.siliconbluetech.com/media/downloads/iCE65Datasheet.pdf iCE65L]
+ * Xilinx [http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]
+
+=OpAmps (Operational Amplifiers)=
+ * Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]
+ * Analog Devices [http://www.analog.com/static/imported-files/data_sheets/OP1177_2177_4177.pdf OP1177]
+ * National Semiconductor [http://www.national.com/ds/LM/LMV331.pdf LMV331]
+ * Texas Instruments [http://focus.ti.com/lit/ds/symlink/opa354.pdf OPA354]
+ * Texas Instruments [http://focus.ti.com/lit/ds/sbos196g/sbos196g.pdf OPA656]/[http://focus.ti.com/lit/ds/symlink/opa657.pdf OPA657]
+ * Texas Instruments [http://focus.ti.com/lit/ds/symlink/opa2354.pdf OPA2354]
+ * Texas Instruments [http://focus.ti.com/lit/ds/symlink/tlc27l4a.pdf TLC27L4]
+
+=Relays=
+ * Clare [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]
+ * International Rectifier [http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S] PhotoMOS
+ * Panasonic [http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]
+
+=Transistors=
+ * California Eastern Laboratories [http://www.cel.com/pdf/datasheets/ne3508m04.pdf NE3508M04] GaAs-HJFET
+
+=VGA (Variable Gain Amplifiers)=
+ * Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD8330.pdf AD8330]
+ * National Semiconductor [http://www.national.com/ds/LM/LMH6518.pdf LMH6518]
+ * Texas Instruments [http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052] (well not quite, this is an analog mux/demux)
