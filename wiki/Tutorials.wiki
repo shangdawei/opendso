@@ -1,6 +1,6 @@
 #summary Various tutorials from around the Web on DSOs.
 
-Here are links to various tutorials on DSO-related subjects:
+Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutorials on DSO-related subjects:
 
 =General=
  * [http://dangerousprototypes.com/docs/Dangerous_DSO Dangerous DSO design]
