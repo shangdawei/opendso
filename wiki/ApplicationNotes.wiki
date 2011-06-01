@@ -1,3 +1,4 @@
 #summary Links to DSO-related application notes
+#labels Featured
 =Application Notes=
   * *Tektronix*: [http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Real-Time Versus Equivalent-Time Sampling]
