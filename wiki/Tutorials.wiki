@@ -1,4 +1,5 @@
 #summary Various tutorials from around the Web on DSOs.
+#labels Featured
 
 Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutorials on DSO-related subjects:
 
