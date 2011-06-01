@@ -1,4 +1,5 @@
 #summary Links to useful datasheets.
+#labels Featured
 
 Below are categorized links to useful component datasheets related to the OpenDSO project:
 
