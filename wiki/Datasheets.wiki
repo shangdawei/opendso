@@ -23,7 +23,7 @@ Below are categorized links to useful component datasheets related to the OpenDS
  * SiliconBlue [http://www.siliconbluetech.com/media/downloads/iCE65Datasheet.pdf iCE65L]
  * Xilinx [http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]
 
-=OpAmps (Operational Amplifiers)=
+=!OpAmps (Operational Amplifiers)=
  * Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]
  * Analog Devices [http://www.analog.com/static/imported-files/data_sheets/OP1177_2177_4177.pdf OP1177]
  * National Semiconductor [http://www.national.com/ds/LM/LMV331.pdf LMV331]
