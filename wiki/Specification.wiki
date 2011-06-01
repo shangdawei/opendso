@@ -24,7 +24,7 @@ This is a draft specification of the OpenDSO listing the technical characteristi
  * Bandwidth: ≥ 20 MHz
  * Resolution: 50 ns/div to 5 s/div with 1/2/5 steps
  * Time Base Accuracy: 50 ppm
- * Record Size: 16 k points / channel
+ * Record Size: 16 KB / channel
 =Trigger=
  * Max Input Voltage: 150VRMS CAT I
  * Impedance: 1 MΩ / 15 to 17 pF
