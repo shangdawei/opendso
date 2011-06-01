@@ -39,6 +39,7 @@ Below are categorized links to useful component datasheets related to the OpenDS
 
 =Transistors=
  * *California Eastern Laboratories [http://www.cel.com/pdf/datasheets/ne3508m04.pdf NE3508M04]*: L to S Band Low-Noise Amplifier N-Channel !GaAs-HJFET
+ * *On Semiconductor [http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF MMBFJ309LT1G]*: JFET VHF/UHF Amplifier Transistor
 
 =VGA (Variable Gain Amplifiers)=
  * *Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD8330.pdf AD8330]*: Low Cost, DC to 150 MHz Variable Gain Amplifier
