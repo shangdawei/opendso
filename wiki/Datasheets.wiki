@@ -4,48 +4,57 @@
 Below are categorized links to useful component datasheets related to the OpenDSO project:
 
 =ADC (Analog to Digital Converters)=
- * *Analog Devices [http://www.analog.com/static/imported-files/Data_Sheets/AD9288.pdf AD9288]*: 8-Bit, 40/80/100 MSPS Dual A/D Converter
- * *Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD9283.pdf AD9283]*: 8-Bit, 50 MSPS/80 MSPS/100 MSPS 3 V A/D Converter
- * *Maxim [http://datasheets.maxim-ic.com/en/ds/MAX1180.pdf MAX1180]*: Dual 10-Bit, 105Msps, 3.3V, Low-Power ADC with Internal Reference and Parallel Outputs
- * *Maxim [http://datasheets.maxim-ic.com/en/ds/MAX19506.pdf MAX19506]*: Dual-Channel, 8-Bit, 100Msps ADC
- * *National Semiconductor [http://www.national.com/ds/AD/ADC08100.pdf ADC08100]/[http://www.national.com/ds/AD/ADC08200.pdf ADC08200]*: 8-Bit, 20 Msps to 100/200 Msps, Low Power A/D Converter with Internal Sample-and-Hold
- * *Texas Instruments [http://focus.ti.com/lit/ds/symlink/ads831.pdf ADS831]*: 8-Bit, 80MHz Sampling Analog-to-Digital Converter
+|| *Manufacturer* || *Product* || *Description* ||
+||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD9288.pdf AD9288]||8-Bit, 40/80/100 MSPS Dual A/D Converter||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9283.pdf AD9283]||8-Bit, 50 MSPS/80 MSPS/100 MSPS 3 V A/D Converter||
+||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX1180.pdf MAX1180]|| Dual 10-Bit, 105Msps, 3.3V, Low-Power ADC with Internal Reference and Parallel Outputs||
+||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX19506.pdf MAX19506]|| Dual-Channel, 8-Bit, 100Msps ADC||
+||National Semiconductor||[http://www.national.com/ds/AD/ADC08100.pdf ADC08100]/[http://www.national.com/ds/AD/ADC08200.pdf ADC08200]||8-Bit, 20 Msps to 100/200 Msps, Low Power A/D Converter with Internal Sample-and-Hold||
+||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/ads831.pdf ADS831]||8-Bit, 80MHz Sampling Analog-to-Digital Converter||
 
 =Clock oscillators=
- * *ECS [http://www.ecsxtal.com/store/pdf/ecs-3951m-bn-3953m-bn.pdf 3951M]*: ± 50 ppm SMD Clock Oscillator
+|| *Manufacturer* || *Product* || *Description* ||
+||ECS||[http://www.ecsxtal.com/store/pdf/ecs-3951m-bn-3953m-bn.pdf 3951M]||± 50 ppm SMD Clock Oscillator||
 
 =DAC (Digital to Analog Converters)=
- * *Linear Technology [http://cds.linear.com/docs/Datasheet/2602fa.pdf LTC2602/LTC2612/LTC2622]*: Dual 16-/14-/12-Bit Rail-to-Rail DACs in 8-Lead MSOP
- * *Maxim [http://datasheets.maxim-ic.com/en/ds/MAX5590-MAX5595.pdf MAX5590]*: Buffered, Fast-Settling, Octal, 12/10/8-Bit, Voltage-Output DAC
+|| *Manufacturer* || *Product* || *Description* ||
+||Linear Technology||[http://cds.linear.com/docs/Datasheet/2602fa.pdf LTC2602/LTC2612/LTC2622]||Dual 16-/14-/12-Bit Rail-to-Rail DACs in 8-Lead MSOP||
+||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX5590-MAX5595.pdf MAX5590]||Buffered, Fast-Settling, Octal, 12/10/8-Bit, Voltage-Output DAC||
 
 =FPGA (Field Programmable Gate Arrays)=
- * *Altera [http://www.altera.com/literature/ds/acex.pdf ACEX 1K]*
- * *Altera [http://www.altera.com/literature/hb/cyc2/cyc2_cii5v1_01.pdf Cyclone II]/[http://www.altera.com/literature/hb/cyc3/cyc3_ciii52001.pdf Cyclone III]/[http://www.altera.com/literature/hb/cyclone-iv/cyiv-51001.pdf Cyclone IV]*
- * *!SiliconBlue [http://www.siliconbluetech.com/media/downloads/iCE65Datasheet.pdf iCE65L]*: Ultra Low-Power mobileFPGA
- * *Xilinx [http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]*
+|| *Manufacturer* || *Product* || *Description* ||
+||Altera||[http://www.altera.com/literature/ds/acex.pdf ACEX 1K]||||
+||Altera||[http://www.altera.com/literature/hb/cyc2/cyc2_cii5v1_01.pdf Cyclone II]/[http://www.altera.com/literature/hb/cyc3/cyc3_ciii52001.pdf Cyclone III]/[http://www.altera.com/literature/hb/cyclone-iv/cyiv-51001.pdf Cyclone IV]||||
+||!SiliconBlue||[http://www.siliconbluetech.com/media/downloads/iCE65Datasheet.pdf iCE65L]||Ultra Low-Power mobileFPGA||
+||Xilinx||[http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]||||
 
 =!OpAmps (Operational Amplifiers)=
- * *Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]*: Low Cost, High Speed Differential Driver
- * *Analog Devices [http://www.analog.com/static/imported-files/data_sheets/OP1177_2177_4177.pdf OP1177]*: Precision Low Noise, Low Input Bias Current Operational Amplifiers
- * *National Semiconductor [http://www.national.com/ds/LM/LMV331.pdf LMV331]*: General Purpose, Low Voltage, Tiny Pack Comparators
- * *Texas Instruments [http://focus.ti.com/lit/ds/symlink/opa354.pdf OPA354]/[http://focus.ti.com/lit/ds/symlink/opa2354.pdf OPA2354]*: 250MHz, Rail-to-Rail I/O, CMOS Operational Amplifiers
- * *Texas Instruments [http://focus.ti.com/lit/ds/sbos196g/sbos196g.pdf OPA656]/[http://focus.ti.com/lit/ds/symlink/opa657.pdf OPA657]*: Wideband, Unity-Gain Stable, FET-Input, and 1.6GHz, Low-Noise, FET-Input Operational Amplifiers
- * *Texas Instruments [http://focus.ti.com/lit/ds/symlink/tlc27l4a.pdf TLC27L4]*: LinCMOS Precision Quad Operational Amplifiers
+|| *Manufacturer* || *Product* || *Description* ||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]||Low Cost, High Speed Differential Driver||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/OP1177_2177_4177.pdf OP1177]||Precision Low Noise, Low Input Bias Current Operational Amplifiers||
+||National Semiconductor||[http://www.national.com/ds/LM/LMV331.pdf LMV331]||General Purpose, Low Voltage, Tiny Pack Comparators||
+||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/opa354.pdf OPA354]/[http://focus.ti.com/lit/ds/symlink/opa2354.pdf OPA2354]||250MHz, Rail-to-Rail I/O, CMOS Operational Amplifiers||
+||Texas Instruments||[http://focus.ti.com/lit/ds/sbos196g/sbos196g.pdf OPA656]/[http://focus.ti.com/lit/ds/symlink/opa657.pdf OPA657]||Wideband, Unity-Gain Stable, FET-Input, and 1.6GHz, Low-Noise, FET-Input Operational Amplifiers||
+||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/tlc27l4a.pdf TLC27L4]||LinCMOS Precision Quad Operational Amplifiers||
 
 =PDL (Programmable Delay Lines)=
- * *Maxim [http://datasheets.maxim-ic.com/en/ds/DS1023.pdf DS1023]*: 8-Bit Programmable Timing Element
- * *Maxim [http://datasheets.maxim-ic.com/en/ds/DS1123L.pdf DS1123L]*: 3.3V, 8-Bit, Programmable Timing Element
+|| *Manufacturer* || *Product* || *Description* ||
+||Maxim||[http://datasheets.maxim-ic.com/en/ds/DS1023.pdf DS1023]||8-Bit Programmable Timing Element||
+||Maxim||[http://datasheets.maxim-ic.com/en/ds/DS1123L.pdf DS1123L]||3.3V, 8-Bit, Programmable Timing Element||
 
 =Relays=
- * *Clare [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]*: Single-Pole, Normally Open 4-Lead SOP OptoMOS® Relay
- * *International Rectifier [http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]*: HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC
- * *Panasonic [http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]*: PhotoMOS Relay
+|| *Manufacturer* || *Product* || *Description* ||
+||Clare|| [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]||Single-Pole, Normally Open 4-Lead SOP OptoMOS® Relay||
+||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC||
+||Panasonic||[http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]||PhotoMOS Relay||
 
 =Transistors=
- * *California Eastern Laboratories [http://www.cel.com/pdf/datasheets/ne3508m04.pdf NE3508M04]*: L to S Band Low-Noise Amplifier N-Channel !GaAs-HJFET
- * *On Semiconductor [http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF MMBFJ309LT1G]*: JFET VHF/UHF Amplifier Transistor
+|| *Manufacturer* || *Product* || *Description* ||
+||California Eastern Laboratories||[http://www.cel.com/pdf/datasheets/ne3508m04.pdf NE3508M04]||L to S Band Low-Noise Amplifier N-Channel !GaAs-HJFET||
+||On Semiconductor||[http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF MMBFJ309LT1G]||JFET VHF/UHF Amplifier Transistor||
 
 =VGA (Variable Gain Amplifiers)=
- * *Analog Devices [http://www.analog.com/static/imported-files/data_sheets/AD8330.pdf AD8330]*: Low Cost, DC to 150 MHz Variable Gain Amplifier
- * *National Semiconductor [http://www.national.com/ds/LM/LMH6518.pdf LMH6518]*: Low Cost, DC to 150 MHz Variable Gain Amplifier
- * *Texas Instruments [http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052]*: High-Speed CMOS Logic Analog Multiplexers/Demultiplexers
+|| *Manufacturer* || *Product* || *Description* ||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8330.pdf AD8330]||Low Cost, DC to 150 MHz Variable Gain Amplifier||
+||National Semiconductor||[http://www.national.com/ds/LM/LMH6518.pdf LMH6518]||Low Cost, DC to 150 MHz Variable Gain Amplifier||
+||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052]||High-Speed CMOS Logic Analog Multiplexers/Demultiplexers||
