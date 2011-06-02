@@ -18,11 +18,11 @@ This is a draft specification of the OpenDSO listing the technical characteristi
  * Coupling: AC, DC, GND
 =Vertical=
  * Resolution: 8 bits
- * Sensitivity: 10 mV/div to 5V/div with 1/2/5 steps
+ * Sensitivity: 5 mV/div to 5V/div in 1-2-5 sequence
  * Accuracy: < 5%
 =Horizontal=
  * Bandwidth: ≥ 40 MHz
- * Resolution: 50 ns/div to 5 s/div with 1/2/5 steps
+ * Resolution: 50 ns/div to 5 s/div in 1-2-5 sequence
  * Time Base Accuracy: 50 ppm
  * Record Size: 16 KB / channel
 =Trigger=
