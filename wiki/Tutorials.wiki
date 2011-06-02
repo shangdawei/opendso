@@ -8,3 +8,6 @@ Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutor
 
 =FPGA=
  * [http://www.fpga4fun.com/digitalscope.html FPGA4Fun DSO tutorial]
+
+=Oscilloscope=
+ * [http://www.bkprecision.com/download/scope/HowScopeWork.pdf How oscilloscopes work] from [http://www.bkprecision.com/ B&K Precision].
