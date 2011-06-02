@@ -32,6 +32,10 @@ Below are categorized links to useful component datasheets related to the OpenDS
  * *Texas Instruments [http://focus.ti.com/lit/ds/sbos196g/sbos196g.pdf OPA656]/[http://focus.ti.com/lit/ds/symlink/opa657.pdf OPA657]*: Wideband, Unity-Gain Stable, FET-Input, and 1.6GHz, Low-Noise, FET-Input Operational Amplifiers
  * *Texas Instruments [http://focus.ti.com/lit/ds/symlink/tlc27l4a.pdf TLC27L4]*: LinCMOS Precision Quad Operational Amplifiers
 
+=PDL (Programmable Delay Lines)=
+ * *Maxim [http://datasheets.maxim-ic.com/en/ds/DS1023.pdf DS1023]*: 8-Bit Programmable Timing Element
+ * *Maxim [http://datasheets.maxim-ic.com/en/ds/DS1123L.pdf DS1123L]*: 3.3V, 8-Bit, Programmable Timing Element
+
 =Relays=
  * *Clare [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]*: Single-Pole, Normally Open 4-Lead SOP OptoMOS® Relay
  * *International Rectifier [http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]*: HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC
