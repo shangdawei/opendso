@@ -3,11 +3,11 @@
 
 = Introduction =
 
-FPGA development certainly appears as a kind of "black magic" to common mortals, partly because it is often confused with the full-fledged microelectronic design.
+FPGA development certainly appears as a kind of "black magic" to common mortals, partly because it is often confused with the full-fledged microelectronic design process.
 
-Of course, there is no wizardry behind it. However, the apparent complexity of the available FPGA datasheets, development boards and software tools make things rather obscure at first sight.
+Of course, there is no wizardry behind it. But the apparent complexity of the available FPGA datasheets, development boards and software tools make things rather obscure at first sight.
 
-Fortunately, things are not so dark and this FPGA Primer will try to clear the FPGA development process by making a parallel with the common software development tasks, as they are in fact very similar.
+Fortunately, it is possible to make a parallel between the FPGA development process and the common software development tasks: at least, this is what this FPGA Primer will try to show.
 
 Much like software, the FPGA development process is made up of several layers of increased abstraction level, going from the lowest transistor level to the highest application level.
 
