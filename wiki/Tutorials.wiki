@@ -11,3 +11,6 @@ Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutor
 
 =Oscilloscope=
  * [http://www.bkprecision.com/download/scope/HowScopeWork.pdf How oscilloscopes work] from [http://www.bkprecision.com/ B&K Precision].
+
+=Interpolation=
+ * [http://i.cmpnet.com/planetanalog/2009/02/Sin(x)x_Agilent.pdf Sin(x)/x Interpolation: An Important Aspect of Proper Oscilloscope Measurements] by Agilent
