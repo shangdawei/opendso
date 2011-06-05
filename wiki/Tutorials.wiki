@@ -15,3 +15,4 @@ Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutor
 =Interpolation=
  * [http://i.cmpnet.com/planetanalog/2009/02/Sin(x)x_Agilent.pdf Sin(x)/x Interpolation: An Important Aspect of Proper Oscilloscope Measurements] by Agilent
  * [http://homepages.fh-regensburg.de/~scm39115/homepage/education/courses/red/ADA-Conversion_Project-Oriented_Laboratory.pdf A / D / A Conversion System Using DE2 and DA2 Boards]
+ * [http://focus.ti.com/lit/an/sbaa094/sbaa094.pdf Combining the ADS1202 with an FPGA Digital Filter for Current Measurement in Motor Control Applications] from Texas Isntruments
