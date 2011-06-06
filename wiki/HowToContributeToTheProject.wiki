@@ -1,4 +1,5 @@
 #summary How to contribute to the OpenDSO project
+#labels Featured
 
 =Read Access=
 Without registration, you still have a read access to all the project resources:
