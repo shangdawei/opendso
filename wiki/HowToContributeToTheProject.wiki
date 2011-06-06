@@ -1,0 +1,105 @@
+#summary How to contribute to the OpenDSO project
+
+=Read Access=
+Without registration, you still have a read access to all the project resources:
+ * Downloads
+ * Wiki
+ * Issues
+ * Sources
+ * Forum
+
+=Write Access=
+However, if you want to contribute to the project, you will need two things:
+ * first, [https://www.google.com/accounts/NewAccount create a Google Account]
+ * request write access by mailing the email address corresponding to your Google Account to one of the project leaders:
+ * michel DOT stempin AT wanadoo DOT fr or
+ * olivier DOT monnom AT analog-design DOT be
+
+(the above scrambling is just to scare robots: humans, please replace DOT with "." and AT with "@").
+
+You will be granted access to all the project resources with write-access, you will:
+ * be able to add new downloads
+ * be able to modify the wiki pages using the Wiki syntax online
+ * be able to add/modify/review/delete/track issues
+ * have access to the SVN code repository (more on this below)
+ * be able to post in the forum
+
+=Working with SVN=
+
+==Introduction==
+This section gives some details on how to work with the SVN version control system.
+
+The definitive guide to version management with SVN is available online in the [http://svnbook.red-bean.com/ SVN Book].
+
+Of course, you can skip it if you are already familiar with this tool.
+
+If this is not the case and in order to get you up to speed quickly, here is a brief tutorial:
+
+==Create a local workspace==
+The SVN version control system follows a client/server model: a server containing the reference "repository" is set up at Google, that you can access to get a "working copy" of onto you local machine.
+
+So, the first thing to do is to create a local directory on your machine , that will contain your working copy of the repository. This can be done using the Unix Shell by typing:
+{{{
+mkdir ~/workinprogress
+cd ~/workinprogress
+}}}
+
+You are now ready to extract a revision of the project files from the repository (by default, this is the "HEAD" or latest revision) into your freshly created directory:
+{{{
+svn checkout https://opendso.googlecode.com/svn/ opendso --username <Your email>
+}}}
+This could take a few minutes.
+
+==Modify a file==
+Before modifying a file, it is important to get the latest version from the server first.
+
+*THIS SHOULD BE DONE BEFORE ANY MODIFICATION!*
+
+The best way to make sure you get the latest version is to update your whole working copy, by doing an update from the working copy main directory, for example:
+{{{
+cd ~/workinprogress/opendso/
+svn update
+}}}
+you are now ready to edit the files  locally with your favorite tools.
+
+Test that everything is working just fine, and when everything is good, you can jump to the next section:
+
+==Send back your modifications==
+Again, to make sure that the whole project is consistent, it is best to sync your whole working copy with the repository:
+
+{{{
+cd ~/workinprogress
+svn commit opendso -m "This is a comment"
+}}}
+It is very important to describe your modifications by supplying a "commit log message". However, this does not prevent you from adding comments within your source code!
+
+*If this is your first commit, SVN will ask you for your password to get write access to the repository. You can find this password here:* https://code.google.com/hosting/settings
+
+In order to avoid bothering other members with a half-working project, it is a good practice to test what you have done before committing your changes to the SVN server, and to make sure you leave everything in a stable configuration.
+
+==Create a new file==
+If you want to create a new file in the SVN structure, first create it locally, using any creation tool:
+{{{
+cd ~/workinprogress/opendso
+touch test
+}}}
+
+Then tell SVN that it should monitor this file:
+{{{
+svn add test
+}}}
+
+Eventually, the locally created file will be added into the repository when you send back ("commit") your changes to the repository.
+
+==Remove a file==
+Now, if you want to remove a file, just tell SVN you no longer need it, it will be removed from your working copy:
+{{{
+svn rm test
+}}}
+
+Eventually, the locally deleted file will be removed from the repository when you send back ("commit") your changes to the repository.
+
+==Modifying the directory structure==
+Unlike other more primitive version control systems, SVN not only keep tracks of files, but also of the whole directory structure as well;
+
+Practically, this means that you can create an initial directory structure, then change your mind later, without loosing the ability to track the modifications that has been performed in the successive versions.
