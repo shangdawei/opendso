@@ -39,7 +39,8 @@ These circuits handle the low-speed data (compared to the sampling rate):
  * A CPU (probably a low-cost 32-bit processor) is used to performed all the low-bandwidth operation and interface to the external world
  * An LCD display with backlight is used to display the sample signal data to the user
  * A touchscreen interface is used to get the user commands and selections
- * An SD Card is used both to provide a convenient trace storage for the user, but also to store the volatile FPGA configuration on the card, so it can be reloaded at startup and upgraded easily
+ * An SD Card is used to provide a convenient trace storage for the user
+ * A serial Flash memory stores the volatile FPGA configuration, so it can be reloaded at startup
 =Power Supply=
 Because of the high-speed and low-noise required for a measuring device like a DSO, the power supply must be carefully designed:
  * A battery is present, since the OpenDSO is a portable device
