@@ -1,13 +1,13 @@
 #summary OpenDSO Block Diagram.
 #labels Featured,Phase-Design
 Click on the diagram below to download the source SVG file:
-[http://opendso.googlecode.com/files/OpenDSO%20Block%20Diagram%20version%200.2.svg http://opendso.googlecode.com/files/OpenDSO%20Block%20Diagram%20version%200.2.png]
+[http://opendso.googlecode.com/files/OpenDSO%20Block%20Diagram%20v0.3.svg http://opendso.googlecode.com/files/OpenDSO%20Block%20Diagram%20version%200.3.png]
 
 =Analog Front-End=
 The analog front end is made up of:
  * 2 symmetric channels (1 & 2) with corresponding digital attenuator
  * 1 external trigger channel with digital threshold
- * 1 dual-ADC with a programmable delay-line on sample clock
+ * 1 dual-ADC
 These elements will be discussed further in the following sections.
 ==Input Channel==
 There are 2 symmetric input channels.
@@ -27,9 +27,7 @@ There is only one single external trigger circuit, made up of:
  * The same DAC as the ones used in the signal channels above, but used for a different purpose: it is used here to perform a digital to analog conversion of the trigger threshold value provided by the FPGA
  * A differential operational amplifier used as a comparator between the trigger signal and the threshold value
 ==Analog to Digital Converter==
-This is the true DSO Heart, composed of:
- * A shared dual-channel ADC, with differential inputs to get the best noise immunity
- * A programmable delay line: this circuit is used to generate an accurate sampling clock to the ADC, but with the ability to delay this clock in a controlled manner, so it is possible to sample periodic signals at slightly different moment within a period, thus providing much more samples that we can sample in real-time, and resulting in an artificial higher bandwidth for periodic signal ("[http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Equivalent Time Sampling]")
+This is the true DSO Heart, composed of a shared dual-channel ADC, with differential inputs to get the best noise immunity
 =High Speed Logic (FPGA)=
 The high-speed numeric signal processing is performed using:
  * an FPGA (Field Programmable Gate Array), a chip that replace a large amount of wired logic by programmable logic, able to work at speed of at least 300 MHz
