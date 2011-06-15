@@ -1,0 +1,5 @@
+#summary Various books on the DSO subject.
+#labels Featured
+Here are some interesting books on the DSO __subject:
+ * [http://books.google.com/books?id=dzsrxlafZAgC&lpg=PP1&dq=wideband%20amplifiers&hl=fr&pg=SA5-PA25#v=onepage&q&f=false P. Starič & E. Margan, Wideband Amplifiers, Springer, Dordrecht, The Netherlands, 2006 (Section 5.2, page 5-25 to 5-55)]
+ * [http://books.google.com/books?id=SPwqg7qpFWUC&lpg=PP1&dq=The%20Art%20and%20Science%20of%20Analog%20Circuit%20Design&hl=fr&pg=PA65#v=onepage&q&f=false S. Roach, Signal Conditioning in Oscilloscopes and the Spirit of Invention, (J. Williams, Editor, The Art and Science of Analog Circuit Design, Part 2) Butterworth–Heinemann, Boston, 1995 (Chapter 7)]
