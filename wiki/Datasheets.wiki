@@ -7,6 +7,8 @@ Below are categorized links to useful component datasheets related to the OpenDS
 || *Manufacturer* || *Product* || *Description* ||
 ||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD9288.pdf AD9288]||8-Bit, 40/80/100 MSPS Dual A/D Converter||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9283.pdf AD9283]||8-Bit, 50 MSPS/80 MSPS/100 MSPS 3 V A/D Converter||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9284.pdf AD9284]||8-Bit, 250 MSPS, 1.8 V Dual Analog-to-Digital Converter||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9288.pdf AD9288]||8-Bit, 40/80/100 MSPS Dual A/D Converter||
 ||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX1180.pdf MAX1180]|| Dual 10-Bit, 105Msps, 3.3V, Low-Power ADC with Internal Reference and Parallel Outputs||
 ||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX19506.pdf MAX19506]|| Dual-Channel, 8-Bit, 100Msps ADC||
 ||National Semiconductor||[http://www.national.com/ds/AD/ADC08100.pdf ADC08100]/[http://www.national.com/ds/AD/ADC08200.pdf ADC08200]||8-Bit, 20 Msps to 100/200 Msps, Low Power A/D Converter with Internal Sample-and-Hold||
