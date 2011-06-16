@@ -46,6 +46,7 @@ Below are categorized links to useful component datasheets related to the OpenDS
 || *Manufacturer* || *Product* || *Description* ||
 ||Clare|| [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]||Single-Pole, Normally Open 4-Lead SOP OptoMOS® Relay||
 ||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC||
+||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt412a.pdf PVT412A]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-400V, 240mA AC / 360mA DC||
 ||Panasonic||[http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]||PhotoMOS Relay||
 
 =Transistors=
