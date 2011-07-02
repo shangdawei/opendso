@@ -5,17 +5,39 @@ Below are categorized links to useful component datasheets related to the OpenDS
 
 =ADC (Analog to Digital Converters)=
 || *Manufacturer* || *Product* || *Description* ||
-||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD9288.pdf AD9288]||8-Bit, 40/80/100 MSPS Dual A/D Converter||
-||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9283.pdf AD9283]||8-Bit, 50 MSPS/80 MSPS/100 MSPS 3 V A/D Converter||
-||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9284.pdf AD9284]||8-Bit, 250 MSPS, 1.8 V Dual Analog-to-Digital Converter||
-||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD9288.pdf AD9288]||8-Bit, 40/80/100 MSPS Dual A/D Converter||
-||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX1180.pdf MAX1180]|| Dual 10-Bit, 105Msps, 3.3V, Low-Power ADC with Internal Reference and Parallel Outputs||
-||Maxim||[http://datasheets.maxim-ic.com/en/ds/MAX19506.pdf MAX19506]|| Dual-Channel, 8-Bit, 100Msps ADC||
-||National Semiconductor||[http://www.national.com/ds/AD/ADC08100.pdf ADC08100]/[http://www.national.com/ds/AD/ADC08200.pdf ADC08200]||8-Bit, 20 Msps to 100/200 Msps, Low Power A/D Converter with Internal Sample-and-Hold||
-||National Semiconductor||[http://www.national.com/ds/DC/ADC08500.pdf ADC08500]/[http://www.national.com/ds/DC/ADC08D500.pdf ADC08D500]||High Performance, Single/Dual Low Power 8-Bit, 500 MSPS A/D Converter||
-||National Semiconductor||[http://www.national.com/ds/DC/ADC10DV200.pdf ADC10DV200]||Dual 10-Bit, 200 MSPS Low-Power A/D Converter with Parallel LVDS/CMOS Outputs||
-||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/ads62p29.pdf ADS62P29]||Dual Channel 14-/12-Bit, 250-/210-MSPS ADC With DDR LVDS and Parallel CMOS Outputs||
-||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/ads831.pdf ADS831]||8-Bit, 80MHz Sampling Analog-to-Digital Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9054A.pdf AD9054]||8-Bit, 135/200 MSPS A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9211.pdf AD9211]||10-Bit, 200 MSPS/250 MSPS/300 MSPS, 1.8 V Analog-to-Digital Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9214.pdf AD9214]/[http://www.analog.com/static/imported-files/Data_Sheets/AD9215.pdf AD9415]||10-Bit, 65/80/105 MSPS, 3 V A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9216.pdf AD9216]||10-Bit, 65/80/105 MSPS, Dual A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9218.pdf AD9218]||10-Bit, 40/65/80/105 MSPS, 3 V Dual Analog-to-Digital Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9283.pdf AD9283]||8-Bit, 50 MSPS/80 MSPS/100 MSPS, 3 V A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9284.pdf AD9284]/[http://www.analog.com/static/imported-files/data_sheets/AD9286.pdf AD9486]||8-Bit, 250/500 MSPS, 1.8 V Dual Analog-to-Digital Converter (ADC)||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9288.pdf AD9288]||8-Bit, 40/80/100 MSPS, Dual A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9410.pdf AD9410]||10-Bit, 210 MSPS ADC||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9411.pdf AD9411]||10-Bit, 170/200 MSPS, 3.3 V A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9480.pdf AD9480]/[http://www.analog.com/static/imported-files/Data_Sheets/AD9481.pdf AD9481]||8-Bit, 250 MSPS, 3.3 V A/D Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9484.pdf AD9484]||8-Bit, 500 MSPS, 1.8 V Analog-to-Digital Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9600.pdf AD9600]||10-Bit, 105 MSPS/125 MSPS/150 MSPS, 1.8 V Dual Analog-to-Digital Converter||
+||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9601.pdf AD9601]||10-Bit, 200 MSPS/250 MSPS, 1.8 V Analog-to-Digital Converter||
+||Artic Silicon Devices||[http://www.mouser.com/catalog/specsheets/DataSheetASD5010_v2.0.pdf ASD5010L1000INT/ASD5010L500INT]||Multi-Mode 8-bit 1000/500/250 MSPS Analog to Digital Converter with Digital Gain||
+||Intersil||[http://www.intersil.com/data/fn/fn7606.pdf ISLA118P50]/[http://www.intersil.com/data/fn/fn7565.pdf ISLA110P50]||8/10-Bit, 500MSPS A/D Converter||
+||Intersil||[http://www.intersil.com/data/fn/fn6812.pdf KAD2708C]/[http://www.intersil.com/data/fn/fn6813.pdf KAD2708L]||8-Bit, 350/275/210/170/105MSPS A/D Converter||
+||Intersil||[http://www.intersil.com/data/fn/fn6814.pdf KAD2710C]/[http://www.intersil.com/data/fn/fn6818.pdf KAD2710L]||10-Bit, 275/210/170/105MSPS A/D Converter||
+||Linear Technology||[http://cds.linear.com/docs/Datasheet/22323fa.pdf LTC2232]||10-Bit,105Msps/80Msps ADCs||
+||Linear Technology||[http://cds.linear.com/docs/Datasheet/2234fa.pdf LTC2234]/[http://cds.linear.com/docs/Datasheet/224010fb.pdf LTC2240]/[http://cds.linear.com/docs/Datasheet/224110fb.pdf LTC2241]/[http://cds.linear.com/docs/Datasheet/224210fc.pdf LTC2242]||10-Bit, 135/170/210//250Msps ADC||
+||Linear Technology||[http://cds.linear.com/docs/Datasheet/22510fa.pdf LTC2250/LTC2251]||10-Bit, 125/105Msps, Low Noise 3V ADCs||
+||Linear Technology||[http://cds.linear.com/docs/Datasheet/2280fa.pdf LTC2280]/[http://cds.linear.com/docs/Datasheet/2281fb.pdf LTC2281]||Dual 10-Bit, 105/125Msps, Low Noise 3V ADC||
+||Maxim Integrated Products||[http://datasheets.maxim-ic.com/en/ds/MAX1198.pdf MAX1198]||Dual, 8-Bit, 100Msps, 3.3V, Low-Power ADC with Internal Reference and Parallel Outputs||
+||Maxim Integrated Products||[http://datasheets.maxim-ic.com/en/ds/MAX19506.pdf MAX19506]/[http://datasheets.maxim-ic.com/en/ds/MAX19507.pdf MAX19507]||Dual-Channel, 8-Bit, 100/130Msps ADC||
+||Maxim Integrated Products||[http://datasheets.maxim-ic.com/en/ds/MAX19516.pdf MAX19516]/[http://datasheets.maxim-ic.com/en/ds/MAX19517.pdf MAX19517]||Dual-Channel, 10-Bit, 100/130Msps ADC||
+||National Semiconductor||[http://www.national.com/ds/AD/ADC08100.pdf ADC08100]/[http://www.national.com/ds/AD/ADC08200.pdf ADC08200]/[http://www.national.com/ds/DC/ADC08500.pdf ADC08500]||8-Bit, 100/200/500 MSPS, Low Power A/D Converter||
+||National Semiconductor||[http://cache.national.com/ds/DC/ADC08B200.pdf ADC08B200]||8-Bit, 200 MSPS A/D Converter with Capture Buffer||
+||National Semiconductor||[http://www.national.com/ds/DC/ADC08D500.pdf ADC08D500]/[http://www.national.com/ds/DC/ADC08DL500.pdf ADC08DL500]||High/Normal Performance, Low Power, Dual 8-Bit, 500 MSPS A/D Converter||
+||National Semiconductor||[http://www.national.com/ds/DC/ADC10DV200.pdf ADC10DV200]||Dual 10-bit, 200 MSPS Low-Power A/D Converter with Parallel LVDS/CMOS Outputs||
+||NXP Semiconductors||[http://www.nxp.com/documents/data_sheet/ADC0808S125_ADC0808S250.pdf ADC0808S125/ADC0808S250]||Single 8-bit ADC, up to 125 MHz or 250 MHz||
+||NXP Semiconductors||[http://www.nxp.com/documents/data_sheet/ADC1010S_SER.pdf ADC1010S105/ADC1010S125]||Single 10-bit ADC; 65 Msps, 80 Msps, 105 Msps or 125 Msps; CMOS or LVDS DDR digital outputs||
+||NXP Semiconductors||[http://www.nxp.com/documents/data_sheet/ADC1015S_SER.pdf ADC1015S105/ADC1015S125]||Single 10-bit ADC; 65 Msps, 80 Msps, 105 Msps or 125 Msps; with input buffer; CMOS or LVDS DDR digital outputs||
+||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/ads58b18.pdf ADS58B18/ADS58B19]||11-Bit, 200MSPS/9-Bit, 250MSPS, Ultralow-Power ADCs with Analog Buffer||
 
 =Clock oscillators=
 || *Manufacturer* || *Product* || *Description* ||
