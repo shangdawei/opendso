@@ -10,7 +10,7 @@ Here are all the ADCs found matching the following criterions:
  * 100 to 999 MSPS
  * Single or dual channel
 
-A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpLZFdGlrOGh0TnkwcDZHakdsX2FlV3oydHc&hl=en_US comparison spreadsheet] is available on Google Docs.
+A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpLZFdGlrOGh0TnkwcDZHakdsX2FlV3oydHc&hl=en_US comparison spreadsheet] is available on Google Docs (don't forget to select either the "Single ADC" or the "Dual ADC" tab at the bottom of the page!).
 
 || *Manufacturer* || *Product* || *Description* ||
 ||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9054A.pdf AD9054]||8-Bit, 135/200 MSPS A/D Converter||
