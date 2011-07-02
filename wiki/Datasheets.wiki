@@ -4,6 +4,14 @@
 Below are categorized links to useful component datasheets related to the OpenDSO project:
 
 =ADC (Analog to Digital Converters)=
+Here are all the ADCs found matiching the following criterions:
+ * Listed by at least one of the global Internet electronic part suppliers (Arrow, Digikey, Farnell/Newark, Future, Mouser and RS):
+ * 8/10 bit resolution
+ * 100 to 999 MSPS
+ * Single or dual channel
+
+A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpLZFdGlrOGh0TnkwcDZHakdsX2FlV3oydHc&hl=en_US comparison spreadsheet] is available on Google Docs.
+
 || *Manufacturer* || *Product* || *Description* ||
 ||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9054A.pdf AD9054]||8-Bit, 135/200 MSPS A/D Converter||
 ||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9211.pdf AD9211]||10-Bit, 200 MSPS/250 MSPS/300 MSPS, 1.8 V Analog-to-Digital Converter||
