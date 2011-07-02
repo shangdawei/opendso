@@ -61,7 +61,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||Altera||[http://www.altera.com/literature/ds/acex.pdf ACEX 1K]||||
 ||Altera||[http://www.altera.com/literature/hb/cyc2/cyc2_cii5v1_01.pdf Cyclone II]/[http://www.altera.com/literature/hb/cyc3/cyc3_ciii52001.pdf Cyclone III]/[http://www.altera.com/literature/hb/cyclone-iv/cyiv-51001.pdf Cyclone IV]||||
 ||!SiliconBlue||[http://www.siliconbluetech.com/media/downloads/iCE65Datasheet.pdf iCE65L]||Ultra Low-Power mobileFPGA||
-||Xilinx||[http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]||||
+||Xilinx||[http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]/[http://www.xilinx.com/support/documentation/data_sheets/ds160.pdf Spartan-6]||||
 
 =!OpAmps (Operational Amplifiers)=
 || *Manufacturer* || *Product* || *Description* ||
