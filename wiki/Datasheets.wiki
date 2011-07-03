@@ -27,7 +27,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9484.pdf AD9484]||8-Bit, 500 MSPS, 1.8 V Analog-to-Digital Converter||
 ||Analog Devices Inc||[http://www.analog.com/static/imported-files/data_sheets/AD9600.pdf AD9600]||10-Bit, 105 MSPS/125 MSPS/150 MSPS, 1.8 V Dual Analog-to-Digital Converter||
 ||Analog Devices Inc||[http://www.analog.com/static/imported-files/Data_Sheets/AD9601.pdf AD9601]||10-Bit, 200 MSPS/250 MSPS, 1.8 V Analog-to-Digital Converter||
-||Artic Silicon Devices||[http://www.mouser.com/catalog/specsheets/DataSheetASD5010_v2.0.pdf ASD5010L1000INT/ASD5010L500INT]||Multi-Mode 8-bit 1000/500/250 MSPS Analog to Digital Converter with Digital Gain||
+||Artic Silicon Devices /<br/>Hittite Microwave Coproration||[http://www.mouser.com/catalog/specsheets/DataSheetASD5010_v2.0.pdf ASD5010L1000INT/ASD5010L500INT]<br/>[http://www.hittite.com/content/documents/data_sheet/hmcad1510.pdf HMCAD1510]/[http://www.hittite.com/content/documents/data_sheet/hmcad1511.pdf HMCAD1511]||Multi-Mode 8-bit 1000/500/250 MSPS Analog to Digital Converter with Digital Gain||
 ||Intersil||[http://www.intersil.com/data/fn/fn7606.pdf ISLA118P50]/[http://www.intersil.com/data/fn/fn7565.pdf ISLA110P50]||8/10-Bit, 500MSPS A/D Converter||
 ||Intersil||[http://www.intersil.com/data/fn/fn6812.pdf KAD2708C]/[http://www.intersil.com/data/fn/fn6813.pdf KAD2708L]||8-Bit, 350/275/210/170/105MSPS A/D Converter||
 ||Intersil||[http://www.intersil.com/data/fn/fn6814.pdf KAD2710C]/[http://www.intersil.com/data/fn/fn6818.pdf KAD2710L]||10-Bit, 275/210/170/105MSPS A/D Converter||
