@@ -1,5 +1,6 @@
 #summary Links to DSO-related patents
 #labels Featured
 
+  * _E._ _Evel_, [http://www.freepatentsonline.com/3573644.pdf DC Stabilized Wideband Amplifier], Apr 6, 1971, U.S. Patent #3,573,644
   * _R._ _Kimura_, [http://www.freepatentsonline.com/5012134.pdf DC Bootstrapped Unity Gain Buffer], Apr. 30, 1991, U.S. Patent #5,012,134
   * _S._ _Roach_, [http://www.freepatentsonline.com/5121075.pdf Precision Programmable Attenuator], Jun. 9, 1992, U.S. Patent #5,121,075
