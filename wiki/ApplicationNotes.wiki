@@ -3,3 +3,4 @@
 =Application Notes=
   * *Tektronix*: [http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Real-Time Versus Equivalent-Time Sampling]
   * *Element14*: [http://uk.farnell.com/jsp/bespoke/bespoke7.jsp?bespokepage=farnell/en/ed_world/tech_first/medical/articles/simply_analogue.jsp Simplify Analog Channel Design in FPGA based DSO]
+  * _E._ _Margan_ , [http://techdoc.kvindesland.no/radio/passivecomp/20061223155128957.pdf Amplifier Instability], Electronics World + Wireless World, Apr. 1998, pp 311-312
