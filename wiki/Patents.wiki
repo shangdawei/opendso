@@ -1,3 +1,4 @@
 #summary Links to DSO-related patents
 
   * _R._ _Kimura_, [http://www.freepatentsonline.com/5012134.pdf DC Bootstrapped Unity Gain Buffer], Apr. 30, 1991, U.S. Patent #5,012,134
+  * _S._ _Roach_, [http://www.freepatentsonline.com/5121075.pdf Precision Programmable Attenuator], Jun. 9, 1992, U.S. Patent #5,121,075
