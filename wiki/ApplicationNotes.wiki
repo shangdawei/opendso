@@ -1,6 +1,7 @@
 #summary Links to DSO-related application notes
 #labels Featured
 =Application Notes=
+  * *Tektronix:* [http://www2.tek.com/cmsreplive/marep/9570/070130604_2008.10.02.15.14.30_9570_EN.pdf Instruction Manual for the P6201 Probe], Beaverton, Oregon, 1972
   * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1986-04.pdf Hewlett-Packard Journal], Volume 37, Issue 4, Apr. 1986
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/RC_Attenuator.pdf RC Attenuator Distorsion], Electronics World + Wireless World, Sept. 1992, Circuit Ideas, pp. 765
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/Amp_Instability.pdf Amplifier Instability], Electronics World + Wireless World, Apr. 1998, pp 311-312
