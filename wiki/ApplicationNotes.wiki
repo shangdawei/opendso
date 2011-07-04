@@ -1,7 +1,8 @@
 #summary Links to DSO-related application notes
 #labels Featured
 =Application Notes=
-  * *Tektronix*: [http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Real-Time Versus Equivalent-Time Sampling]
-  * *Element14*: [http://uk.farnell.com/jsp/bespoke/bespoke7.jsp?bespokepage=farnell/en/ed_world/tech_first/medical/articles/simply_analogue.jsp Simplify Analog Channel Design in FPGA based DSO]
+  * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1986-04.pdf Hewlett-Packard Journal], Volume 37, Issue 4, Apr. 1986
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/RC_Attenuator.pdf RC Attenuator Distorsion], Electronics World + Wireless World, Sept. 1992, Circuit Ideas, pp. 765
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/Amp_Instability.pdf Amplifier Instability], Electronics World + Wireless World, Apr. 1998, pp 311-312
+  * *Tektronix*: [http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Real-Time Versus Equivalent-Time Sampling]
+  * *Element14*: [http://uk.farnell.com/jsp/bespoke/bespoke7.jsp?bespokepage=farnell/en/ed_world/tech_first/medical/articles/simply_analogue.jsp Simplify Analog Channel Design in FPGA based DSO]
