@@ -13,4 +13,4 @@
   * _Hewlett-Packard, L. Whiteside_, [http://www.freepatentsonline.com/4694244.pdf Apparatus for Random Repetitive Sampling], Sep. 15, 1987, U.S. Patent #4,694,244
   * _Hewlett-Packard, R. B. Kimura_, [http://www.freepatentsonline.com/5012134.pdf DC Bootstrapped Unity Gain Buffer], Apr. 30, 1991, U.S. Patent #5,012,134
   * _Hewlett-Packard, S. Roach_, [http://www.freepatentsonline.com/5121075.pdf Precision Programmable Attenuator], Jun. 9, 1992, U.S. Patent #5,121,075
- * _Hewlett-Packard, S. D. Draving_, [http://www.freepatentsonline.com/5315627.pdf Pseudo-Random Repetitive Sampling of a signal], May 24, 1994, U.S. Patent #5,315,627
+  * _Hewlett-Packard, S. D. Draving_, [http://www.freepatentsonline.com/5315627.pdf Pseudo-Random Repetitive Sampling of a signal], May 24, 1994, U.S. Patent #5,315,627
