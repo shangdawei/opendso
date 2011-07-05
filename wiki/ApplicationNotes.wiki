@@ -7,3 +7,4 @@
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/Amp_Instability.pdf Amplifier Instability], Electronics World + Wireless World, Apr. 1998, pp 311-312
   * *Tektronix*: [http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Real-Time Versus Equivalent-Time Sampling]
   * *Element14*: [http://uk.farnell.com/jsp/bespoke/bespoke7.jsp?bespokepage=farnell/en/ed_world/tech_first/medical/articles/simply_analogue.jsp Simplify Analog Channel Design in FPGA based DSO]
+  * _M.-C. Lin, G.-R. Tsai, C.-Y. Liu, S.-S. Chu, [http://ir.lib.ksu.edu.tw/dspace/bitstream/987654321/3519/1/%C3%A6%C5%BE%E2%80%94%C3%A6%CB%9C%C5%BD%C3%A6%C2%AC%C5%A0--95%C3%A7%C2%A0%E2%80%9D%C3%A8%C2%A8%C5%BD%C3%A6%C5%93%C6%92%C3%A8%C2%AB%E2%80%93%C3%A6%E2%80%93%E2%80%A1.pdf FPGA-Based High Area Efficient Time-To-Digital IP Design], IEEE TENCON 2006 Conerence, pp. 1-4
