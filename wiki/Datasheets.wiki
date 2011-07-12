@@ -47,6 +47,10 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||NXP Semiconductors||[http://www.nxp.com/documents/data_sheet/ADC1015S_SER.pdf ADC1015S105/ADC1015S125]||Single 10-bit ADC; 65 Msps, 80 Msps, 105 Msps or 125 Msps; with input buffer; CMOS or LVDS DDR digital outputs||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/ads58b18.pdf ADS58B18/ADS58B19]||11-Bit, 200MSPS/9-Bit, 250MSPS, Ultralow-Power ADCs with Analog Buffer||
 
+=Charge Pumps=
+|| *Manufacturer* || *Product* || *Description* ||
+||Maxim Integrated Products||[http://datasheets.maxim-ic.com/en/ds/MAX889.pdf MAX889]||High-Frequency, Regulated, 200mA, Inverting Charge Pump||
+
 =Clock oscillators=
 || *Manufacturer* || *Product* || *Description* ||
 ||ECS||[http://www.ecsxtal.com/store/pdf/ecs-3951m-bn-3953m-bn.pdf 3951M]||± 50 ppm SMD Clock Oscillator||
@@ -74,6 +78,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 
 =!OpAmps (Operational Amplifiers)=
 || *Manufacturer* || *Product* || *Description* ||
+||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD8065_8066.pdf AD8065/AD8066]||High Performance, 145 MHz FastFET Op Amps||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]||Low Cost, High Speed Differential Driver||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8510_8512_8513.pdf AD8510/AD8512/AD8513]||Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/OP1177_2177_4177.pdf OP1177]||Precision Low Noise, Low Input Bias Current Operational Amplifiers||
@@ -92,7 +97,9 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 || *Manufacturer* || *Product* || *Description* ||
 ||Clare|| [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]||Single-Pole, Normally Open 4-Lead SOP OptoMOS® Relay||
 ||Cosmo Electronics Coprporation||[http://www.cosmo-ic.com/object/products/KAQY214S.pdf KAQY214S]||Solid State Relay MOSFET Output||
+||Fujitsu||[http://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf FTR-B3]||Ultra Miniature Relay 2 POLES - 2 A (Low Profile Signal Relay)||
 ||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC||
+||Meder Electronic||[http://www.meder.com/fileadmin/meder/pdf/en/Products/Reed_Relays/Relay_SIL_Series_E.pdf SIL05-1A72-71D]||Single-In-Line Reed Relays||
 ||NEC||[http://www.worldproducts.com/pdfs/uc2ud2.pdf UC2/UD2]||Ultra-small package, Low profile, Surface mounting Miniature Signal Relay||
 ||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt412a.pdf PVT412A]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-400V, 240mA AC / 360mA DC||
 ||Panasonic||[http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]||PhotoMOS Relay||
