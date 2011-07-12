@@ -91,7 +91,9 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 =Relays=
 || *Manufacturer* || *Product* || *Description* ||
 ||Clare|| [http://www.clare.com/home/pdfs.nsf/www/CPC1017N.pdf/$file/CPC1017N.pdf CPC1017]||Single-Pole, Normally Open 4-Lead SOP OptoMOS® Relay||
+||Cosmo Electronics Coprporation||[http://www.cosmo-ic.com/object/products/KAQY214S.pdf KAQY214S]||Solid State Relay MOSFET Output||
 ||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC||
+||NEC||[http://www.worldproducts.com/pdfs/uc2ud2.pdf UC2/UD2]||Ultra-small package, Low profile, Surface mounting Miniature Signal Relay||
 ||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt412a.pdf PVT412A]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-400V, 240mA AC / 360mA DC||
 ||Panasonic||[http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]||PhotoMOS Relay||
 
