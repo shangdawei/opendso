@@ -63,6 +63,10 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||!SiliconBlue||[http://www.siliconbluetech.com/media/downloads/iCE65Datasheet.pdf iCE65L]||Ultra Low-Power mobileFPGA||
 ||Xilinx||[http://www.xilinx.com/support/documentation/data_sheets/ds529.pdf Spartan 3A]/[http://www.xilinx.com/support/documentation/data_sheets/ds312.pdf Spartan 3E]/[http://www.xilinx.com/support/documentation/data_sheets/ds160.pdf Spartan-6]||||
 
+=Multiplexers/Demultiplexers=
+|| *Manufacturer* || *Product* || *Description* ||
+||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052]||High-Speed CMOS Logic Analog Multiplexers/Demultiplexers||
+
 =!OpAmps (Operational Amplifiers)=
 || *Manufacturer* || *Product* || *Description* ||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]||Low Cost, High Speed Differential Driver||
@@ -95,4 +99,3 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8331_8332_8334.pdf AD8331/AD8332/AD8334]||Ultralow Noise VGAs with Preamplifier and Programmable RIN||
 ||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD8370.pdf AD8370]||LF to 750 MHz, Digitally Controlled VGA||
 ||National Semiconductor||[http://www.national.com/ds/LM/LMH6518.pdf LMH6518]||900 MHz, Digitally Controlled, Varaible Gain Amplifier||
-||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052]||High-Speed CMOS Logic Analog Multiplexers/Demultiplexers||
