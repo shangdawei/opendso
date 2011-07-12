@@ -71,6 +71,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 || *Manufacturer* || *Product* || *Description* ||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]||Low Cost, High Speed Differential Driver||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/OP1177_2177_4177.pdf OP1177]||Precision Low Noise, Low Input Bias Current Operational Amplifiers||
+||National Semiconductor||[http://www.national.com/ds/LM/LMH6552.pdf LMH6552]||1.5 GHz Fully Differential Amplifier||
 ||National Semiconductor||[http://www.national.com/ds/LM/LMV331.pdf LMV331]||General Purpose, Low Voltage, Tiny Pack Comparators||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/opa354.pdf OPA354]/[http://focus.ti.com/lit/ds/symlink/opa2354.pdf OPA2354]||250MHz, Rail-to-Rail I/O, CMOS Operational Amplifiers||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/sbos196g/sbos196g.pdf OPA656]/[http://focus.ti.com/lit/ds/symlink/opa657.pdf OPA657]||Wideband, Unity-Gain Stable, FET-Input, and 1.6GHz, Low-Noise, FET-Input Operational Amplifiers||
