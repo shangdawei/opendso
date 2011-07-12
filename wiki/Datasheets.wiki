@@ -93,5 +93,6 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 || *Manufacturer* || *Product* || *Description* ||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8330.pdf AD8330]||Low Cost, DC to 150 MHz Variable Gain Amplifier||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8331_8332_8334.pdf AD8331/AD8332/AD8334]||Ultralow Noise VGAs with Preamplifier and Programmable RIN||
-||National Semiconductor||[http://www.national.com/ds/LM/LMH6518.pdf LMH6518]||Low Cost, DC to 150 MHz Variable Gain Amplifier||
+||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD8370.pdf AD8370]||LF to 750 MHz, Digitally Controlled VGA||
+||National Semiconductor||[http://www.national.com/ds/LM/LMH6518.pdf LMH6518]||900 MHz, Digitally Controlled, Varaible Gain Amplifier||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052]||High-Speed CMOS Logic Analog Multiplexers/Demultiplexers||
