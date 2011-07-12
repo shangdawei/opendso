@@ -65,6 +65,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 
 =Multiplexers/Demultiplexers=
 || *Manufacturer* || *Product* || *Description* ||
+||National Semiconductor||[http://www.national.com/ds/LM/LMH6574.pdf LMH6574]||4:1 High Speed Video Multiplexer||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/cd74hct4052.pdf 74HCT4052]||High-Speed CMOS Logic Analog Multiplexers/Demultiplexers||
 
 =!OpAmps (Operational Amplifiers)=
