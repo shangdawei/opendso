@@ -4,13 +4,14 @@
 Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutorials on DSO-related subjects:
 
 =General=
- * [http://dangerousprototypes.com/docs/Dangerous_DSO Dangerous DSO design]
+ * [http://www.mit.edu/~6.331/an47fa.pdf High Speed Amplifier Techniques - A Designer’s Companion for Wideband Circuitry] by Jim Williams
 
 =FPGA=
  * [http://www.fpga4fun.com/digitalscope.html FPGA4Fun DSO tutorial]
 
 =Oscilloscope=
  * [http://www.bkprecision.com/download/scope/HowScopeWork.pdf How oscilloscopes work] from [http://www.bkprecision.com/ B&K Precision].
+ * [http://dangerousprototypes.com/docs/Dangerous_DSO Dangerous DSO design]
 
 =Interpolation=
  * [http://i.cmpnet.com/planetanalog/2009/02/Sin(x)x_Agilent.pdf Sin(x)/x Interpolation: An Important Aspect of Proper Oscilloscope Measurements] by Agilent
