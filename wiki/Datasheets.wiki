@@ -86,6 +86,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||National Semiconductor||[http://www.national.com/ds/LM/LMV331.pdf LMV331]||General Purpose, Low Voltage, Tiny Pack Comparators||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/opa354.pdf OPA354]/[http://focus.ti.com/lit/ds/symlink/opa2354.pdf OPA2354]||250MHz, Rail-to-Rail I/O, CMOS Operational Amplifiers||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/sbos196g/sbos196g.pdf OPA656]/[http://focus.ti.com/lit/ds/symlink/opa657.pdf OPA657]||Wideband, Unity-Gain Stable, FET-Input, and 1.6GHz, Low-Noise, FET-Input Operational Amplifiers||
+||Texas Instruments||[http://focus.ti.com/lit/ds/slos472d/slos472d.pdf THS4513]||Wideband, Low-Noise, Low-Distorsion, Fully-Differential Aamp||
 ||Texas Instruments||[http://focus.ti.com/lit/ds/symlink/tlc27l4a.pdf TLC27L4]||LinCMOS Precision Quad Operational Amplifiers||
 
 =PDL (Programmable Delay Lines)=
