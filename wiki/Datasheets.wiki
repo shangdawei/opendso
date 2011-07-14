@@ -78,6 +78,8 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 
 =!OpAmps (Operational Amplifiers)=
 || *Manufacturer* || *Product* || *Description* ||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/ADA4817-1_4817-2.pdf ADA4817-1/ADA4817-2]||Low Noise, 1 GHz FastFET Op Amps||
+||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/ADA4930-1_4930-2.pdf ADA4930-1/ADA4930-2]||Ultralow Noise Drivers for Low Voltage ADCs||
 ||Analog Devices||[http://www.analog.com/static/imported-files/Data_Sheets/AD8065_8066.pdf AD8065/AD8066]||High Performance, 145 MHz FastFET Op Amps||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8131.pdf AD8131]/[http://www.analog.com/static/imported-files/data_sheets/AD8132.pdf AD8132]||Low Cost, High Speed Differential Driver||
 ||Analog Devices||[http://www.analog.com/static/imported-files/data_sheets/AD8510_8512_8513.pdf AD8510/AD8512/AD8513]||Precision, Very Low Noise, Low Input Bias Current, Wide Bandwidth JFET Operational Amplifiers||
