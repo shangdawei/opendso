@@ -3,6 +3,8 @@
 
 Below are categorized links to useful component datasheets related to the OpenDSO project:
 
+<wiki:toc max_depth="1" />
+
 =ADC (Analog to Digital Converters)=
 Here are all the ADCs found matching the following criterions:
  * Listed by at least one of the global Internet electronic part suppliers (Arrow, Digikey, Farnell/Newark, Future, Mouser and RS):
