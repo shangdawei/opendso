@@ -104,9 +104,10 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||Cosmo Electronics Coprporation||[http://www.cosmo-ic.com/object/products/KAQY214S.pdf KAQY214S]||Solid State Relay MOSFET Output||
 ||Fujitsu||[http://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-b3.pdf FTR-B3]||Ultra Miniature Relay 2 POLES - 2 A (Low Profile Signal Relay)||
 ||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt312.pdf PVT312S]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-250V, 190mA AC/DC||
+||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt412a.pdf PVT412A]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-400V, 240mA AC / 360mA DC||
+||Meder Electronic||[http://www.meder.com/fileadmin/meder/pdf/en/Products/Reed_Relays/Relay_CRF_Series_E.pdf CRF Series]||7 GHz High Frequency Reed Relay for 50 Ω Impedance||
 ||Meder Electronic||[http://www.meder.com/fileadmin/meder/pdf/en/Products/Reed_Relays/Relay_SIL_Series_E.pdf SIL05-1A72-71D]||Single-In-Line Reed Relays||
 ||NEC||[http://www.worldproducts.com/pdfs/uc2ud2.pdf UC2/UD2]||Ultra-small package, Low profile, Surface mounting Miniature Signal Relay||
-||International Rectifier||[http://www.irf.com/product-info/datasheets/data/pvt412a.pdf PVT412A]||HEXFET® Power MOSFET Photovoltaic Relay Single Pole, Normally Open, 0-400V, 240mA AC / 360mA DC||
 ||Panasonic||[http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]||PhotoMOS Relay||
 
 =Transistors=
