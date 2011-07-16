@@ -114,6 +114,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 || *Manufacturer* || *Product* || *Description* ||
 ||California Eastern Laboratories||[http://www.cel.com/pdf/datasheets/ne3508m04.pdf NE3508M04]||L to S Band Low-Noise Amplifier N-Channel !GaAs-HJFET||
 ||Fairchild Semiconductor||[http://www.gqrp.com/MPSH10.pdf MPSH10/MMBTH10]||NPN RF Transistor||
+||NEC||[http://www2.renesas.eu/_pdf/D18962EJ2V0DS00.PDF 2SK508]||High Frequency Amplifier N-Channel Silicon Junction Field Effect Transistor||
 ||On Semiconductor||[http://www.onsemi.com/pub_link/Collateral/BSR58LT1-D.PDF BSR58LT1]||JFET Chopper Transistor N−Channel − Depletion||
 ||On Semiconductor||[http://www.onsemi.com/pub/Collateral/MMBFJ309LT1-D.PDF MMBFJ309LT1G]||JFET VHF/UHF Amplifier Transistor||
 ||Vishay||[http://www.vishay.com/docs/70233/70233.pdf J/SST201]||N-Channel JFET||
