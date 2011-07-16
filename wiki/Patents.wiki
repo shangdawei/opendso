@@ -7,10 +7,12 @@
   * _Nicloet Instrument, R. W. Schumann_, [http://www.freepatentsonline.com/4142146.pdf Digital Apparatus for Waveform Measurement], Feb. 27, 1979, U.S. Patent #4,142,146
   * _Iwasaki Tsushinki Kabushiki Kaisha, M. Soma_, [http://www.freepatentsonline.com/4399512.pdf Waveform Searching System], Aug. 16, 1983, U.S. Patent #4,399,512
   * _Tektronix, H. Philipp_, [http://www.freepatentsonline.com/4283713.pdf Waveform Acquisition Circuit], Aug. 11, 1981, U.S. PAtent #4,283,713
+  * _Tektronix, F. Miles_, [http://www.freepatentsonline.com/4517523.pdf Oscilloscope Trigger Circuit Combining Wideband Trigger Signal Amplification and Trigger Coupling Mode Selection], May 14, 1985, U.S. Patent #4,517,523
   * _Tektronix, F. Miles_, [http://www.freepatentsonline.com/4523161.pdf Programmable Attenuator], Jun. 11, 1985, U.S. Patent #4,523,161
   * _Tektronix, R. A. Bruce_, [http://www.freepatentsonline.com/4540938.pdf Displaying Waveforms], Sep. 10, 1985, U.S. Patent #4,540,938
   * _Tektronix, A.L. Hollister_, [http://www.freepatentsonline.com/4578667.pdf Digital Acquisition System Including a High-Speed Sampling Gate], Mar. 25, 1986, U.S. Patent #4,578,667
   * _Hewlett-Packard, L. Whiteside_, [http://www.freepatentsonline.com/4694244.pdf Apparatus for Random Repetitive Sampling], Sep. 15, 1987, U.S. Patent #4,694,244
   * _Hewlett-Packard, R. B. Kimura_, [http://www.freepatentsonline.com/5012134.pdf DC Bootstrapped Unity Gain Buffer], Apr. 30, 1991, U.S. Patent #5,012,134
+  * _H. Moriyasu_, [http://www.freepatentsonline.com/5034698.pdf Dual-Path Wideband and Precision Data Acquisition System], Jul. 23, 1991, U.S. Patent #5,034,698
   * _Hewlett-Packard, S. Roach_, [http://www.freepatentsonline.com/5121075.pdf Precision Programmable Attenuator], Jun. 9, 1992, U.S. Patent #5,121,075
   * _Hewlett-Packard, S. D. Draving_, [http://www.freepatentsonline.com/5315627.pdf Pseudo-Random Repetitive Sampling of a signal], May 24, 1994, U.S. Patent #5,315,627
