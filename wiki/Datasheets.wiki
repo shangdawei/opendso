@@ -109,6 +109,7 @@ A more detailed [https://spreadsheets.google.com/spreadsheet/ccc?key=0ArHvhrQgpL
 ||Meder Electronic||[http://www.meder.com/fileadmin/meder/pdf/en/Products/Reed_Relays/Relay_SIL_Series_E.pdf SIL05-1A72-71D]||Single-In-Line Reed Relays||
 ||NEC||[http://www.worldproducts.com/pdfs/uc2ud2.pdf UC2/UD2]||Ultra-small package, Low profile, Surface mounting Miniature Signal Relay||
 ||Panasonic||[http://pewa.panasonic.com/assets/pcsd/catalog/aqy-dip-form-a-reinforced-isolation-catalog.pdf AQY210EH]||PhotoMOS Relay||
+||Panasonic||[http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electric%20Works%20PDFs/AQW,AQY280,282,284.pdf AQY282S/AQW280S/AQY280S/AQW282S, AQW284S]||PhotoMOS Relay||
 
 =Transistors=
 || *Manufacturer* || *Product* || *Description* ||
