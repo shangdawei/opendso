@@ -9,6 +9,9 @@ Here is a small genuine [FPGAPrimer FPGA Primer] and some links to various tutor
 =FPGA=
  * [http://www.fpga4fun.com/digitalscope.html FPGA4Fun DSO tutorial]
 
+=The JFET transistor model=
+http://users.ece.gatech.edu/mleach/ece3050/notes/jfet/thejfet.pdf
+
 =Oscilloscope=
  * [http://www.bkprecision.com/download/scope/HowScopeWork.pdf How oscilloscopes work] from [http://www.bkprecision.com/ B&K Precision].
  * [http://dangerousprototypes.com/docs/Dangerous_DSO Dangerous DSO design]
