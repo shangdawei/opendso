@@ -16,4 +16,5 @@
   * _H. Moriyasu_, [http://www.freepatentsonline.com/5034698.pdf Dual-Path Wideband and Precision Data Acquisition System], Jul. 23, 1991, U.S. Patent #5,034,698
   * _Hewlett-Packard, S. Roach_, [http://www.freepatentsonline.com/5121075.pdf Precision Programmable Attenuator], Jun. 9, 1992, U.S. Patent #5,121,075
   * _Hewlett-Packard, S. D. Draving_, [http://www.freepatentsonline.com/5315627.pdf Pseudo-Random Repetitive Sampling of a signal], May 24, 1994, U.S. Patent #5,315,627
+  * _Tektronix, T. G. Nelson_, [http://www.freepatentsonline.com/6720828.pdf Apparatus and Method for Compensating a High Impedance Attenuator], Apr. 13, 2004, U. S. Patent #6,720,828
   * _Tektronix, S. K. Sullivan_, [http://www.freepatentsonline.com/7352167.pdf Digital Trigger], Apr. 1, 2008, U.S. Patent #7,352,167
