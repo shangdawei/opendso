@@ -1,7 +1,7 @@
 #summary Links to similar projects on the Net.
 #labels Featured
 
- * [http://www.soudez.be/joomla/content/view/12/27/lang,en/ Olivier's old project]
+ * *[http://www.soudez.be/joomla/content/view/12/27/lang,en/ Olivier's old project]*
  * *[http://www.bitscope.com/design/ Bitscope]* : 2 channels – 40 MS/s  PC Oscilloscope  &Logic Analyzer
  * *[http://stephan.walter.name/files/publications/walter-dso-project.pdf Digital oscilloscope module with PC interface]*: 1 channel - 20 MS/s DSO
  * *[http://alternatezone.com/electronics/dsoamk3.htm DSOA Mk3]*: David L. Jones's 2 channels - 20 MS/s old PC DSO
@@ -11,7 +11,8 @@
  * *[http://web.archive.org/web/20090212123133/http://www.johann-glaser.at/projects/DSO/ Johann Glaser's DSO]*: 4 channels - 80 MS/s PC DSO (_resurected_)
  * *[http://classic-web.archive.org/web/20071014010534/http://www.dsoworld.co.uk/ LSDO]*: Tom Grocutt's 2 channels - 50 MS/s PC DSO (_resurected_)
  * *[http://www.enetsystems.com/~lorenzo/scope/ Oscilloscopio digitale]*: Lorenzo Lutti's DSO
- * *[http://www.ourdev.cn/bbs/bbs_list.jsp?bbs_id=3051 OURDSO]*: 2 channel - 100 MS/s DSO * *[http://web.archive.org/web/20070909065841/http://area26.no-ip.org/projects/dso PC-based DSO]*: Area26's 4 channels - 100 MS/s PC-based DSO (_resurected_)
+ * *[http://www.ourdev.cn/bbs/bbs_list.jsp?bbs_id=3051 OURDSO]*: 2 channel - 100 MS/s DSO
+ * *[http://web.archive.org/web/20070909065841/http://area26.no-ip.org/projects/dso PC-based DSO]*: Area26's 4 channels - 100 MS/s PC-based DSO (_resurected_)
  * *[http://www.picotech.com/oscilloscope-specifications.html Pico Oscilloscope Range]*: commercial products
  * A [http://sourceforge.net/apps/trac/welecw2000a/ firmware development/improvement] for the *Welec 2000a- series DSO*
  * *[http://www.gabotronics.com/development-boards/xmega-xprotolab.htm Xprotolab]*: the smallest DSO on Earth!
