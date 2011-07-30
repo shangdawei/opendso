@@ -15,3 +15,5 @@
  * *[http://classic-web.archive.org/web/20071014010534/http://www.dsoworld.co.uk/ LSDO]*: Tom Grocutt's 2 channels - 50 MS/s PC DSO (_resurected_)
  * *[http://eosystems.ro/eoscope/eoscope_en.htm eOscope]*: 1 channel - 40 MS/s DSO
  * *[http://stephan.walter.name/files/publications/walter-dso-project.pdf Digital oscilloscope module with PC interface]*: 1 channel - 20 MS/s DSO
+ * [http://www.opencircuits.com/Oscilloscope#Open_Source_Oscilloscopes A list of Open-Source Oscilloscopes]
+ * [http://techref.massmind.org/techref/tools.htm#digital_scope Yet another list]
