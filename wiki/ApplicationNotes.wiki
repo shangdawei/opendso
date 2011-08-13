@@ -3,6 +3,11 @@
 =Application Notes=
   * *Tektronix:* [http://www2.tek.com/cmsreplive/marep/9570/070130604_2008.10.02.15.14.30_9570_EN.pdf Instruction Manual for the P6201 Probe], Beaverton, Oregon, 1972
   * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1986-04.pdf Hewlett-Packard Journal], Volume 37, Issue 4, Apr. 1986
+  * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1988-02.pdf Hewlett-Packard Journal], Volume 39, Issue 1, Feb. 1988
+  * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1988-06.pdf Hewlett-Packard Journal], Volume 39, Issue 3, Jun. 1988
+  * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1992-02.pdf Hewlett-Packard Journal], Volume 43, Issue 1, Feb. 1992
+  * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1993-10.pdf Hewlett-Packard Journal], Volume 44, Issue 5, Oct. 1993
+  * *Hewlett-Packard:* [http://www.hpl.hp.com/hpjournal/pdfs/IssuePDFs/1997-04.pdf Hewlett-Packard Journal], Volume 48, Issue 2, Apr. 1997
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/RC_Attenuator.pdf RC Attenuator Distorsion], Electronics World + Wireless World, Sept. 1992, Circuit Ideas, pp. 765
   * _E._ _Margan_ , [http://www-f9.ijs.si/~margan/Articles/Amp_Instability.pdf Amplifier Instability], Electronics World + Wireless World, Apr. 1998, pp 311-312
   * *Tektronix*: [http://www2.tek.com/cmswpt/tidetails.lotr?ct=TI&cs=Application+Note&ci=14295&lc=EN Real-Time Versus Equivalent-Time Sampling]
