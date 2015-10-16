@@ -1,0 +1,61 @@
+This is a draft specification of the OpenDSO listing the technical characteristics.
+
+# Channels #
+## Channel Number ##
+  * 2 Analog Channels or
+  * 1 Analog Channel + 8 Digital Channels
+## Channel Configuration ##
+  * 2 x Single ADC or 1 x Dual ADC
+  * Single FPGA
+## Sample Rate on Each Channel ##
+  * 80 to 200 MS/s (Real Time Sampling)
+# Inputs #
+  * Max Input Voltage: 150VRMS CAT I
+  * Impedance: 1 MΩ / 12 to 15 pF
+  * Coupling: AC, DC, GND
+# Vertical #
+  * Resolution: 8 bits
+  * Sensitivity: 5 mV/div to 5V/div in 1-2-5 sequence
+  * Accuracy: < 5%
+# Horizontal #
+  * Bandwidth: ≥ 40 MHz
+  * Resolution: 50 ns/div to 5 s/div in 1-2-5 sequence
+  * Time Base Accuracy: 50 ppm
+  * Record Size: 16 KB / channel
+# Trigger #
+  * Max Input Voltage: 150VRMS CAT I
+  * Impedance: 1 MΩ / 15 to 17 pF
+  * Modes: Auto, Normal, Single
+  * Secondary Trigger
+  * Features
+    * Edge or Level Sensitive Selection
+    * Rising/Falling edge or High/Low Level Selection
+    * Signal Type: LVTTL, TTL, Video, Analog
+    * Event Repeat Count
+    * Min/Max Pulse Width Trigger
+    * Delay between Primary and Secondary Triggers
+    * Trigger Inhibit Delay
+# Math Functions #
+  * FFT
+    * Windowing: Hamming/Hann/Cosinus
+    * Scale: Linear, Log (X, Y)
+    * Persist Mode
+  * Channel Arithmetic
+    * Invert
+    * Sum
+    * Product
+    * Min
+    * Max
+  * X/Y Mode
+# User Interface #
+  * ≥ 2.4" LCD Screen
+  * Touchscreen
+# Connectivity #
+  * SD or MicroSD Slot
+  * MicroUSB Device Socket
+# Power Supply #
+  * LiPo Battery
+  * Built-in Battery Charger
+# Price #
+  * < 150 Euros for Single Channel
+  * < 200 Euros for Dual Channels

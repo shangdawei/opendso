@@ -1,0 +1,5 @@
+Here are some interesting books on the DSO subject:
+  * [P. Starič & E. Margan, Wideband Amplifiers, Springer, Dordrecht, The Netherlands, 2006 (Section 5.2, page 5-25 to 5-55)](http://books.google.com/books?id=dzsrxlafZAgC&lpg=PP1&dq=wideband%20amplifiers&hl=fr&pg=SA5-PA25#v=onepage&q&f=false)
+  * [S. Roach, Signal Conditioning in Oscilloscopes and the Spirit of Invention, (J. Williams, Editor, The Art and Science of Analog Circuit Design, Part 2) Butterworth–Heinemann, Boston, 1995 (Chapter 7)](http://books.google.com/books?id=SPwqg7qpFWUC&lpg=PP1&dq=The%20Art%20and%20Science%20of%20Analog%20Circuit%20Design&hl=fr&pg=PA65#v=onepage&q&f=false)
+  * [Analog Devices Inc. (W. Kester, Editor), The Data Conversion Handbook, Newnes, Oxford, England, 2005](http://www.analog.com/library/analogDialogue/archives/39-06/data_conversion_handbook.html)
+  * [U. Meyer-Baese, Digital Signal Processing with Field Programmable Gate Arrays, Springer, Berlin, Germany, 2007](http://books.google.com/books?id=wzYuOF6HFX0C&lpg=PR2&dq=Digital%20Signal%20Processing%20with%20Field%20Programmable%20Gate%20Arrays&hl=fr&pg=PR2#v=onepage&q&f=false)
